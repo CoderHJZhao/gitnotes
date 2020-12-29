@@ -37,3 +37,12 @@ rm -rf .git/
 删除链接的远程分支
 
 git remote rm origin
+
+//暂存
+git stash
+
+//取出
+暂存
+
+
+git stash pop
